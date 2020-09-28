@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+}
+
+.edit {
+    margin-right: 10px;
+}
+
+.edit > span {
+    color: #D9CD26;
+}
+
+.delete > span {
+    color: #E35E6B;
+}
